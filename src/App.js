@@ -52,9 +52,9 @@ function App() {
        )
      })}
 
-        <div style={{padding:"15px"}}>
-          <p>© Created By :- <span style={{color:"#18f297"}}>Abdullah Al Suad</span></p>
-        </div>
+        <div style={{padding:"15px",textAlign:'center'}}>
+          <p>© Created By :- <span style={{color:"#18f297"}}><a href="http://abdullahalsuad.netlify.app/" target="_blank" rel="noreferrer" style={{color:"#18f297",textDecoration:"none"}}>Abdullah Al Suad</a></span></p>
+      </div>
     </div>
   );
 }
